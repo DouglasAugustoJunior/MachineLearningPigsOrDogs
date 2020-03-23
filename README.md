@@ -1,6 +1,8 @@
 
 # MachineLearningPigsorDogs
 
+![Project](https://img.shields.io/badge/MachineLearning-PigsorDogs-blue)
+![Version](https://img.shields.io/badge/Python-V1.0-blue)
 Projeto de Machine Learning para verificar se o individuo é um cachorro ou porco com base em 3 características:
 
  - Tem pelo longo
